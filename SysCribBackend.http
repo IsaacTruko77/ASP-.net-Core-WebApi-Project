@@ -1,0 +1,6 @@
+@SysCribBackend_HostAddress = http://localhost:5277
+
+GET {{SysCribBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

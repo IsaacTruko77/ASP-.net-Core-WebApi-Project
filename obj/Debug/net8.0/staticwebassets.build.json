@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "gsilZlNIUwpESH7z7XeJwpQwOKgpfzU5tqgs9jk3at8=",
+  "Source": "SysCribBackend",
+  "BasePath": "_content/SysCribBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
